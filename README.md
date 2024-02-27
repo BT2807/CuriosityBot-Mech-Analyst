@@ -1,1 +1,1 @@
-# CuriosityBot-Mech-Analyst
+# Sci-Bot
